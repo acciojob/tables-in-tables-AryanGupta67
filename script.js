@@ -1,2 +1,3 @@
-// Script is not required for the functionality but added as per structure
-console.log("Page loaded successfully.");
+// JS not required for test, but included
+console.log("Nested HTML Tables loaded.");
+
