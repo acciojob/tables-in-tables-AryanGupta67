@@ -1,2 +1,2 @@
-// No logic needed for the task
-console.log("Script Loaded");
+// Script is not required for the functionality but added as per structure
+console.log("Page loaded successfully.");
